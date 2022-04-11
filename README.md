@@ -2,7 +2,7 @@
 
 Este é um exemplo de Calculadora desenvolvido em Python com ambiente GRÁFICO!
 
-No arquivo "requirements.txt"ocê verá que não foram utilizadas nenhuma biblioteca externa.
+No arquivo "requirements.txt" você verá que não foram utilizadas nenhuma biblioteca externa.
 
 # Dito Isso...
 
